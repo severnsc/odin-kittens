@@ -1,24 +1,3 @@
-# README
+Using Rails to build a Vanilla API. Interacts with the Flickr API. Designed to learn how to design applications as a service and interact with external APIs.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a part of The Odin Project. More information can be found at: http://theodinproject.com
